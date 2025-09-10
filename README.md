@@ -37,7 +37,7 @@ python bpe_tokenizer.py --infer ./model/vocab.pkl --input ./data/input.txt --out
 ```
 
 **상세 결과 및 분석**  
-🔗 [Kaggle Notebook - NLP1](https://www.kaggle.com/your-nlp1-link)
+🔗 [Kaggle Notebook - NLP1](https://www.kaggle.com/nlp1-link)
 
 ---
 
@@ -58,7 +58,7 @@ python hangul_automata.py
 ```
 
 **상세 결과 및 분석**  
-🔗 [Kaggle Notebook - NLP2](https://www.kaggle.com/your-nlp2-link)
+🔗 [Kaggle Notebook - NLP2](https://www.kaggle.com/nlp2-link)
 
 ---
 
